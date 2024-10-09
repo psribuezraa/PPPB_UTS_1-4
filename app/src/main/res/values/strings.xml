@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layout_UTS</string>
+    <string name="keluar">Keluar</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="move_activity_2">Move to Activity Second</string>
+    <string name="move_activity_3">Move to Activity Third</string>
+    <string name="welcome">Welcome to My App!</string>
+    <string name="enter_name">Enter your name first</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
